@@ -13,7 +13,8 @@
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
-## My Skill Set  
+## 💼 Technical Skills
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
