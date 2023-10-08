@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nikky 👋</h1>
 <h3 align="center">A Software Engineer proficient in UI/UX design and project management.</h3>
 
-- 🌱 I’m currently learning **NextJS 13**
+- 🌱 I’m currently learning **The Latest NextJS 13**
 
 - 📫 How to reach me **nikkyeya@gmail.com**
 
