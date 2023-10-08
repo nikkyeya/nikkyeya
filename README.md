@@ -1,22 +1,20 @@
-### <div align="center">I'm Nikky, a full-stack developer 👨‍💻. Proficient in  UI/UX design and project management. 🎨</div>  
+
   
+<h1 align="center">Hi, I'm Nikky 👋</h1>
+<h3 align="center">A full-stack developer. Proficient in UI/UX design and project management 👨‍💻</h3>
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+----------------------------------------------------------------------------------------------------------
 
-<br/>  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nikky-eya-a686b710a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikky-eya-a686b710a" height="30" width="40" /></a>
-</p>
+📫 How to reach me nikkyeya@gmail.com
 
-<br/>  
+🌱 I’m currently learning The Latest NextJS 13
+
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -36,7 +34,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Backend  
 <div align="center">  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -48,7 +45,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Design  
