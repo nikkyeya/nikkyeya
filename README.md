@@ -1,7 +1,7 @@
 
   
 <h1 align="center">Hi, I'm Nikky 👋</h1>
-<h3 align="center">A full-stack developer. Proficient in UI/UX design and project management 👨‍💻</h3>
+<h3 align="center">A full-stack developer, proficient in UI/UX design and project management 👨‍💻</h3>
 
 <br/>
 
