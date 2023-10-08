@@ -6,7 +6,7 @@
 
 <br/>  
 
-  <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikky-eya-a686b710a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikky-eya-a686b710a" height="30" width="40" /></a>
 </p>
@@ -60,5 +60,4 @@
 </td></tr></table>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
