@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nikky 👋</h1>
-<h3 align="center">A Software Engineer, who occasionally does UI/UX and project management.</h3>
+<h3 align="center">A Software Engineer proficient in UI/UX design and project management.</h3>
 
 - 🌱 I’m currently learning **NextJS 13**
 
