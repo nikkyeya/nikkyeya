@@ -5,18 +5,15 @@
 
 <br/>
 
-📫 How to reach me nikkyeya@gmail.com
-
-🌱 I’m currently learning The Latest NextJS 13
+🌱 I’m currently learning the Latest NextJS 13
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+📫 How to reach me nikkyeya@gmail.com 
 
-<br/>
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikkyeya) 
 
+<br/>
 
 ## 💼 Technical Skills
 
