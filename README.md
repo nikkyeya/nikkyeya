@@ -9,7 +9,7 @@
 
 📫 How to reach me nikkyeya@gmail.com 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikkyeya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikky-eya-a686b710a/) 
 
 
 
@@ -19,7 +19,7 @@
 
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nikkyeya&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikkyeya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
