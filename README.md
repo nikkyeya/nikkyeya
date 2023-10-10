@@ -3,7 +3,7 @@
 
 <br/>
 
-🌱 I’m currently learning the Latest NextJS 13
+🌱 I’m currently creating projects with the Latest NextJS 13
 
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
