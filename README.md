@@ -5,7 +5,7 @@
 
 🌱 I’m currently creating projects with the Latest NextJS 13
 
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+💬 Learning is not a one-time event; it's a lifelong process that requires dedication and consistency. - Unknown
 
 📫 How to reach me nikkyeya@gmail.com 
 
