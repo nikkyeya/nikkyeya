@@ -3,7 +3,7 @@
 
 <br/>
 
-🌱 I’m currently creating projects with the Latest NextJS 13
+🌱 I’m currently creating projects with the Latest NextJS 14
 
 💬 Learning is not a one-time event; it's a lifelong process that requires dedication and consistency. - Unknown
 
