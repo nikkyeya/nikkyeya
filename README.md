@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nikky 👋</h1>
-<h3 align="center">A full-stack developer, proficient in UI/UX and project management 👨‍💻</h3>
+<h3 align="center">Full-stack Software Engineer / UI/UX / Management 👨‍💻</h3>
 
 <br/>
 
